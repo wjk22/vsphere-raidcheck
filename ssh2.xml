@@ -1,0 +1,13 @@
+<ConfigRoot>
+<service id='0033'>
+<id>SSH Upload Port</id>
+<rule id='0000'>
+<direction>outbound</direction>
+<protocol>tcp</protocol>
+<porttype>dst</porttype>
+<port>12345</port>
+</rule>
+<enabled>true</enabled>
+<required>false</required>
+</service>
+</ConfigRoot>
