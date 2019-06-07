@@ -7,6 +7,12 @@ Working with VSphere 6.0 6.5 tested
 Installation 
 btw after every reboot you have to run the 1 2 3 4 scripts .. 
 
+this is just a quick hack to help friends monitor their self
+build vmware server which do now show the raid status in their
+webinterface...
+
+can anyway answer me if I am allowed to upload the controller binaries here?
+
 -1 get arcconf, perccli and megacli for your controller and put it in the correct dir
    not sure I am allowed to add them to this repository, 
 
